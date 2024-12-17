@@ -1,4 +1,3 @@
-<?php
 /**
  * Plugin Name: JQuery UI Reenqueue
  * Plugin URI: https://elica-webservices.it/
